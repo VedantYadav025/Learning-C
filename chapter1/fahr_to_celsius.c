@@ -1,5 +1,7 @@
 #include <stdio.h>
+
 /* prints Fahrenit-Celsius table for fahr = 0, 20, ...., 300 */
+
 int main() {
   float fahr, celsius;
   int lower, step, upper;
